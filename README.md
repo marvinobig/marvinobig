@@ -1,4 +1,4 @@
-### Hello, I'm Marvin 👋
+# Hello, I'm Marvin 👋
 
 ![Marvin Obigwilo Github Profile](Banner.png)
 
