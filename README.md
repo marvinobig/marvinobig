@@ -1,6 +1,6 @@
 ### Hello, I'm Marvin 👋
 
-![Marvin Obigwilo Github Profile](./Images/GitHub-README-Banner.png)
+![Marvin Obigwilo Github Profile](./Images/GitHub README Banner.png)
 
 I have excellent knowledge of HTML, CSS & JavaScript basics. Skilled in Git/GitHub, problem solving, communication and teamwork.
 
