@@ -3,7 +3,7 @@
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marvinobig&show_icons=true&locale=en" alt="marvinobig" /></p>  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marvinobig&count_private=true&show_icons=true&locale=en" alt="marvinobig" /></p>  
 
 <br>
 <br>
