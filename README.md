@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **My Socials**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvinobig&show_icons=true&locale=en" alt="marvinobig" /></p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -29,8 +31,4 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvinobig&show_icons=true&locale=en&layout=compact" alt="marvinobig" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvinobig&show_icons=true&locale=en" alt="marvinobig" /></p>
 
