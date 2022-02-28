@@ -18,7 +18,11 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marvinobig&show_icons=true&locale=en&layout=compact" alt="marvinobig" /></p>
 
+<br>
+
 <p align="left"> <a href="https://twitter.com/marvin_obig" target="blank"><img src="https://img.shields.io/twitter/follow/marvin_obig?logo=twitter&style=for-the-badge" alt="marvin_obig" /></a> </p>
+
+<br>
 
 - 🌱 I’m currently learning **Vue.js + JSON + Working with APIs + Webpack && TDD**
 
@@ -28,6 +32,8 @@
 
 - 📫 How to reach me **My Socials**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/marvinobig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marvinobig" height="30" width="40" /></a>
@@ -35,6 +41,8 @@
 <a href="https://linkedin.com/in/marvin obigwilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvin obigwilo" height="30" width="40" /></a>
 <a href="https://instagram.com/marvinobig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvinobig" height="30" width="40" /></a>
 </p>
+
+<br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
