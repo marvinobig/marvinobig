@@ -16,12 +16,6 @@
 
 - 📫 How to reach me **My Socials**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvinobig&show_icons=true&locale=en" alt="marvinobig" /></p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/marvinobig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marvinobig" height="30" width="40" /></a>
@@ -30,7 +24,8 @@
 <a href="https://instagram.com/marvinobig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvinobig" height="30" width="40" /></a>
 </p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvinobig&show_icons=true&locale=en" alt="marvinobig" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marvinobig&show_icons=true&locale=en&layout=compact" alt="marvinobig" /></p>
-
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
