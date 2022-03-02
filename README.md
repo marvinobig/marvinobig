@@ -48,5 +48,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Days of Code Challenge: Day 2](https://dev.to/marvinobig/100-days-of-code-challenge-day-2-1lg)
 - [100 Days of Code Challenge](https://dev.to/marvinobig/100-days-of-code-challenge-13bo)
 <!-- BLOG-POST-LIST:END -->
