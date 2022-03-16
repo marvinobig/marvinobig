@@ -29,7 +29,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **React.js + Webpack + Node js + MongoDB && Express**
+- 🌱 I’m currently aiming to learning **React.js + Webpack + Node js + MongoDB && Express**
 
 - 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
 
