@@ -51,8 +51,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Days of Code Challenge: Day 21](https://dev.to/marvinobig/100-days-of-code-day-21-88b)
 - [100 Days of Code Challenge: Day 18, 19 &amp; 20](https://dev.to/marvinobig/100-days-of-code-challenge-day-18-19-20-2mik)
 - [100 Days of Code Challenge: Day 15, 16 &amp; 17](https://dev.to/marvinobig/100-days-of-code-challenge-day-15-16-17-531k)
 - [100 Days of Code Challenge: Day 13 &amp; 14](https://dev.to/marvinobig/100-days-of-code-challenge-day-13-14-231b)
-- [100 Days of Code Challenge: Day 11 &amp; 12](https://dev.to/marvinobig/100-days-of-code-challenge-day-11-12-3i0g)
 <!-- BLOG-POST-LIST:END -->
