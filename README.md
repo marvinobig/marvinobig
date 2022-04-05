@@ -29,7 +29,7 @@
 
 <br>
 
-- 🌱 I’m currently aiming to learning **Node js + MongoDB && Express/Mongoose**
+- 🌱 I’m currently aiming to learning **MongoDB + Express/Mongoose && React**
 
 - 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
 
