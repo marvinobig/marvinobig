@@ -29,7 +29,7 @@
 
 <br>
 
-- 🌱 I’m currently aiming to learn **Express/Mongoose && React**
+- 🌱 I’m currently aiming to learn **REST APIs, Authentication && React**
 
 - 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
 
