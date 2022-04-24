@@ -33,8 +33,6 @@
 
 - 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
 
-- 📝 I regularly write articles on [https://dev.to/marvinobig](https://dev.to/marvinobig)
-
 - 📫 How to reach me **My Socials**  
 
 <br>
