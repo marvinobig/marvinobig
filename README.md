@@ -44,13 +44,3 @@
 <a href="https://twitter.com/marvin_obig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marvin_obig" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marvin-obigwilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvin obigwilo" height="30" width="40" /></a>
 </p>  
-
-<br>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Using APIs](https://dev.to/marvinobig/using-apis-51a3)
-- [100 Days of Code Challenge: Day 22](https://dev.to/marvinobig/100-days-of-code-challenge-day-22-215j)
-- [100 Days of Code Challenge: Day 21](https://dev.to/marvinobig/100-days-of-code-day-21-88b)
-- [100 Days of Code Challenge: Day 18, 19 &amp; 20](https://dev.to/marvinobig/100-days-of-code-challenge-day-18-19-20-2mik)
-<!-- BLOG-POST-LIST:END -->
