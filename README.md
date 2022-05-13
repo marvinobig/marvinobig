@@ -3,11 +3,11 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvinobig" alt="marvinobig" /></a> </p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marvinobig&count_private=true&show_icons=true&locale=en" alt="marvinobig" /></p>  
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marvinobig&count_private=true&show_icons=true&locale=en" alt="marvinobig" /></p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvinobig" alt="marvinobig" /></a> </p>
 
 <br>
 <br>
