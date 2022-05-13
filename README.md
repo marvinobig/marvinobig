@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Marvin</h1>
-<h3 align="left">A passionate developer from the UK</h3>  
+<h1 align="left">Hello 👋, I'm Marvin</h1>
+<h3 align="left">A fullstack developer from the UK</h3>  
 
 <br>
 
@@ -29,11 +29,9 @@
 
 <br>
 
-- 🌱 I’m currently aiming to learn **REST APIs, Authentication && React**
+- 🌱 I’m currently aiming to learn **REST APIs**
 
 - 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
-
-- 📫 How to reach me **My Socials**  
 
 <br>
 
