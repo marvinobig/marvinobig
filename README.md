@@ -33,7 +33,7 @@
 
 <br>
 
-- 🌱 I’m currently aiming to learn **REST APIs**
+- 🌱 I’m currently learning **REST APIs**
 
 - 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
 
