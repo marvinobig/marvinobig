@@ -29,8 +29,6 @@
 
 <br>
 
-- 🌱 I’m currently learning **REST APIs**
-
 - 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
 
 <br>
