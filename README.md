@@ -1,5 +1,6 @@
 <h1 align="left">Hello 👋, I'm Marvin</h1>
 <h3 align="left">A software developer from the UK</h3>  
+<p>👨‍💻 All of my projects are available on my [portfolio](https://marvinobig.github.io/){target="_blank"}</p>
 
 <br>
 
@@ -18,10 +19,4 @@
 <br>
 <br>
 <br>
-<br>
-
-<br>
-
-- 👨‍💻 All of my projects are available at [https://marvinobig.github.io/](https://marvinobig.github.io/)
-
 <br>
